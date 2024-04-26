@@ -4,9 +4,9 @@ This bash script provides an interactive menu for selecting files from a specifi
 
 ## Usage
 
-1. Ensure you have the necessary permissions to execute the script (`chmod +x file_processor.sh`).
+1. Ensure you have the necessary permissions to execute the script (`chmod +x ips.sh`).
 2. Customize the script by specifying the source directory where your files are located and the destination directory where you want to save the results.
-3. Run the script (`./file_processor.sh`) and follow the on-screen instructions.
+3. Run the script (`./ips.sh`) and follow the on-screen instructions.
 
 ## Features
 
